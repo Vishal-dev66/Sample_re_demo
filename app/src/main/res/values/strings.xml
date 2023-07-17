@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">ReRides</string>
+    <string name="existing_user_heading">Be a Maniac \n<font color="#FF0000">Join</font> the Rider Mania</string>
+    <string name="release_Date">Coming in <b>November 2022</b></string>
+    <string name="register_now">REGISTER NOW</string>
+    <string name="right_btn">RightArrow</string>
+    <string name="empty_string" />
+    <string name="upcoming_events_heading">MARQUEE RIDES</string>
+    <string name="upcoming_events_content">RE curated rides for you to experience the most challenging terrains</string>
+    <string name="ride_of_the_month">Ride of the month</string>
+    <string name="may">May</string>
+    <string name="footer_home">Home</string>
+    <string name="footer_navigation">Navigation</string>
+    <string name="footer_re">My RE</string>
+    <string name="footer_shop">Shop</string>
+    <string name="footer_ride">Rides</string>
+    <string name="my_re_text">My RE</string>
+    <string name="main_fragment">Main Fragment</string>
+
+    <string name="footer_bg">Footer background image</string>
+    <string name="footer_floating_button">Footer Floating Button</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="day_15">Day 15 </string>
+    <string name="odyssey_heading">Himalayan Odyssey 2022</string>
+    <string name="kaza">Rest day at <b>Kaza</b></string>
+    <string name="event_img">event_img</string>
+    <string name="dot">.</string>
+    <string name="location_img">location_img</string>
+    <string name="ongoing_txt">Follow the ongoing rides to receive it’s daily highlights</string>
+    <string name="follow_the_ride">FOLLOW THE RIDE</string>
+    <string name="marquee_rides_and_events">MARQUEE RIDES \nAND EVENTS</string>
+    <string name="nearby_ride_out">NEARBY RIDE OUT</string>
+    <string name="nearby_rideout_content">Hosted by the <b>RE Dealers nearby you</b></string>
+    <string name="dalhousie_ride">Dalhousie Ride</string>
+    <string name="dalhouse_naintal">Dalhouse-Naintal</string>
+    <string name="by_royal_re_motors">By Royal RE Motors</string>
+    <string name="_6_12">6-12</string>
+    <string name="march">March</string>
+    <string name="for_riders">FOR RIDERS</string>
+    <string name="commutiy">Become a part of the rides \ncreated by the riders of RE \nCommunity</string>
+    <string name="exploring_kerala">Exploring Kerala</string>
+    <string name="by_rishi_sing">By Rishi Sing</string>
+    <string name="nainital">Nainital</string>
+    <string name="dalhouse">Dalhouse</string>
+    <string name="rides_calendar">RIDES CALENDAR</string>
+    <string name="all_7">All(7)</string>
+    <string name="calendar_heading">calendar_heading</string>
+    <string name="rides_calendar_heading">RIDES CALENDAR</string>
+    <string name="marquee_rides">Marquee Rides</string>
+    <string name="july_2022">JULY 2022</string>
+    <string name="left_arrow">left_arrow</string>
+    <string name="hline">hline</string>
+    <string name="marquee_rides_caps">MARQUEE RIDES</string>
+    <string name="july_state_ride_out_2022">July state ride out 2022</string>
+    <string name="_22_july">22 \nJULY</string>
+    <string name="rider_curated">RIDER CURATED</string>
+    <string name="boost_your_riding_challenge">Boost Your Riding Challenge</string>
+    <string name="_08_aug">08 \nAUG</string>
+    <string name="_17_aug">17 \nAug</string>
+    <string name="astral_ride_ladakh_2022">Astral Ride Ladakh 2022</string>
+    <string name="ride_out">RIDE OUT</string>
+    <string name="view_more">VIEW MORE</string>
+
+    <string name="email_address">Enter your Email Address</string>
+    <string name="stay_updated_with"><font color="#73FFFFFF">STAY UPDATED WITH\n</font><font color="#FFFFFFFF">ROYAL ENFIELD!</font></string>
+    <string name="provide_email">Provide your Email Address to keep yourself\nupdated with the latest news and launches</string>
+    <!--    Refer And Earn  -->
+    <string name="refer_and_earn">Refer and Earn</string>
+    <string name="refer_invite">Invite a friend and you both earn\n<b>100 Rider Points</b>. Share your code now.</string>
+    <string name="refer_code">REB373</string>
+    <!--    Gallery     -->
+    <string name="gallery">Gallery</string>
+    <string name="sahid_dave">By Sahil Dave</string>
+    <string name="nikil_gupta">By Nikhil Gupta</string>
+    <string name="amita_pulga">By Amita Pulga</string>
+    <string name="sahitya_das">By Sahitya Das</string>
+    <!--    Highlights and Stories  -->
+    <string name="highlights_stories">HIGHLIGHTS AND STORIES</string>
+    <string name="highlights_post"><font color="#FFFFFFFF">Highlights of </font><font color="#DAAA00">Astral\nRide 2019</font><font color="#FFFFFFFF"> Zanskar</font></string>
+    <!--        Meet and Greet   -->
+    <string name="meet_greet"><b>Meet and Greet</b></string>
+    <string name="re_community"><b>Experience the RE Community\nby Meeting Fellow Riders</b></string>
+    <string name="sign_up">SIGN UP NOW</string>
+    <!--    Create a Group      -->
+    <string name="cult"><b>Experience\ngroup riding\nwith your cult</b></string>
+    <string name="create_group"><b>CREATE A GROUP</b></string>
+    <!--        Featured Group  -->
+    <string name="featured_group">Featured Groups</string>
+    <string name="scavengers">The Scavengers</string>
+    <string name="noida">Noida</string>
+    <string name="seventeen_rides"><b>17</b>\nRides</string>
+    <string name="request_to_join"><b>Request to Join</b></string>
+    <!--    Still Confused  -->
+    <string name="still_confused">Still Confused ?</string>
+    <string name="find_ride">Let me Find a Ride for you</string>
+    <string name="when">When</string>
+    <string name="where">Where</string>
+    <string name="search_rides">Search For Rides</string>
+    <!--    Enjoy the journey   -->
+    <string name="enjoy_gang">Enjoy the Journey\nwith your gang</string>
+    <string name="create_ride">create a ride</string>
+    <string name="shop_fragment">Shop Fragment</string>
+</resources>

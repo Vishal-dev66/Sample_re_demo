@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/footer_home"
+        android:enabled="true"
+        android:checked="false"
+        android:icon="@drawable/footer_home"
+        android:title="@string/footer_home"/>
+    <item
+        android:id="@+id/footer_navigation"
+        android:enabled="true"
+        android:checked="false"
+        android:icon="@drawable/footer_navigation"
+        android:title="@string/footer_navigation"/>
+    <item
+        android:id="@+id/footer_re"
+        android:enabled="true"
+        android:checked="false"
+        android:title="@string/footer_re"/>
+    <item
+        android:id="@+id/footer_shop"
+        android:enabled="true"
+        android:checked="false"
+        android:icon="@drawable/footer_shop"
+        android:title="@string/footer_shop"/>
+    <item
+        android:id="@+id/footer_rides"
+        android:enabled="true"
+        android:checked="true"
+        android:icon="@drawable/footer_rides"
+        android:title="@string/footer_ride"/>
+</menu>

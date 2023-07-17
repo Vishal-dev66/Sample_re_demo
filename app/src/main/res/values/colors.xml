@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#191818</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="dark_red">#57100B</color>
+    <color name="participants_bg">#26282c</color>
+    <color name="month_bg">#282828</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="neutral_grey">#46464A</color>
+    <color name="dark_grey">#1D1E22</color>
+    <color name="texture_grey">#F246464A</color>
+    <color name="card_bg">#26282C</color>
+    <color name="ride_out_bg">#EDEDED</color>
+    <color name="calender_bg">#F2F2F2</color>
+    <color name="marquee_bg">#A99E76</color>
+    <color name="light_Red">#FD5050</color>
+    <color name="light_yellow">#DEB219</color>
+
+    <color name="dark_okre">#1D1C1C</color>
+    <color name="body_same">#191818</color>
+    <color name="neutral_graphite_100">#CACACA</color>
+    <color name="neutral_graphite_400">#616161</color>
+    <color name="graphite_mid">#26282C</color>
+    <color name="neutral_graphite_700">#373737</color>
+    <color name="neutral_graphite_800">#282828</color>
+    <color name="opacity_white">#73FFFFFF</color>
+    <color name="cherry_red">#FD5050</color>
+    <color name="primary_red">#57100B</color>
+    <color name="stroke_red">#DA291C</color>
+</resources>
